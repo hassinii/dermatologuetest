@@ -1058,6 +1058,10 @@
                 </plugins>
             </build>
             <properties>
+               
+  <sonar.organization>hassinii</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
                 <!-- default Spring profiles -->
                 <spring.profiles.active>dev</spring.profiles.active>
             </properties>
